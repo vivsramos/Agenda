@@ -43,6 +43,8 @@
       <file leaf-file-name="ListaAlunosActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/br/com/alura/agenda/ListaAlunosActivity.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="447">
+              <caret line="92" column="34" lean-forward="true" selection-start-line="92" selection-start-column="34" selection-end-line="92" selection-end-column="34" />
             <state relative-caret-position="885">
               <caret line="78" column="34" selection-start-line="78" selection-start-column="34" selection-end-line="78" selection-end-column="34" />
               <folding>
@@ -2327,6 +2329,7 @@
       <list>
         <option value="$PROJECT_DIR$/app/src/main/java/br/com/alura/agenda/FormularioActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/br/com/alura/agenda/DAO/AlunoDAO.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/br/com/alura/agenda/ListaAlunosActivity.java" />
       </list>
     </option>
   </component>
@@ -2529,6 +2532,7 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/br/com/alura/agenda/FormularioActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="417">
+
           <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
         </state>
       </provider>
@@ -2556,7 +2560,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/br/com/alura/agenda/FormularioActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
+        <state relative-caret-position="27">
           <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
         </state>
       </provider>
